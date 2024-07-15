@@ -2,7 +2,7 @@
 
 ## ScreenShots
 
-https://img-c.udemycdn.com/redactor/raw/2019-09-17_15-06-07-d447efe0588753243a3d9417282231a0.gif![image](https://github.com/user-attachments/assets/94fc0834-057e-447f-abdf-fdf70aaf6ca4)
+![2019-09-17_15-06-07-d447efe0588753243a3d9417282231a0](https://github.com/user-attachments/assets/2ce29868-7ff3-4017-a691-a3046ed776aa)
 
 
 ## Overview
