@@ -1,5 +1,10 @@
 # Destini - Choose Your Own Adventure Game
 
+## ScreenShots
+
+https://img-c.udemycdn.com/redactor/raw/2019-09-17_15-06-07-d447efe0588753243a3d9417282231a0.gif![image](https://github.com/user-attachments/assets/94fc0834-057e-447f-abdf-fdf70aaf6ca4)
+
+
 ## Overview
 
 Destini is a "choose your own adventure" game inspired by the App Store hit "Life Line". This game allows players to make choices that affect the storyline, providing an engaging and dynamic story-telling experience. The app is built using the MVC (Model-View-Controller) design pattern in Swift.
